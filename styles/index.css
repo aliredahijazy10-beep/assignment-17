@@ -13,3 +13,7 @@ button{
     flex-direction: column;
     margin-top: 10px;
 }
+
+.font{
+    font-size: 1.5rem;
+}
