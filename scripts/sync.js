@@ -1,0 +1,5 @@
+console.log("Line 1");
+console.log("Line 2");
+console.log("Line 3");
+
+//Explain: these codes will be working after each other
